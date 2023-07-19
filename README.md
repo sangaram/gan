@@ -40,57 +40,57 @@ Here is some examples of super resolution results:
 <div style="display: flex">
     <div style="display:flex; flex-direction:column; align-items:center">
         <span>Low resolution</span>
-        <img src="./lr1.png" width=200 height=200>
+        <img src="./img/lr1.png" width=200 height=200>
     </div>
     <div style="display:flex; flex-direction:column; align-items:center">
         <span>High resolution</span>
-        <img src="./hr1.png" width=200 height=200>
+        <img src="./img/hr1.png" width=200 height=200>
     </div>
     <div style="display:flex; flex-direction:column; align-items:center">
         <span>Super resolution</span>
-        <img src="./sr1.png" width=200 height=200>
+        <img src="./img/sr1.png" width=200 height=200>
     </div>
 </div>
 <div style="display: flex">
     <div style="display:flex; flex-direction:column; align-items:center">
         <span>Low resolution</span>
-        <img src="./lr2.png" width=200 height=200>
+        <img src="./img/lr2.png" width=200 height=200>
     </div>
     <div style="display:flex; flex-direction:column; align-items:center">
         <span>High resolution</span>
-        <img src="./hr2.png" width=200 height=200>
+        <img src="./img/hr2.png" width=200 height=200>
     </div>
     <div style="display:flex; flex-direction:column; align-items:center">
         <span>Super resolution</span>
-        <img src="./sr2.png" width=200 height=200>
+        <img src="./img/sr2.png" width=200 height=200>
     </div>
 </div>
 <div style="display: flex">
     <div style="display:flex; flex-direction:column; align-items:center">
         <span>Low resolution</span>
-        <img src="./lr3.png" width=200 height=200>
+        <img src="./img/lr3.png" width=200 height=200>
     </div>
     <div style="display:flex; flex-direction:column; align-items:center">
         <span>High resolution</span>
-        <img src="./hr3.png" width=200 height=200>
+        <img src="./img/hr3.png" width=200 height=200>
     </div>
     <div style="display:flex; flex-direction:column; align-items:center">
         <span>Super resolution</span>
-        <img src="./sr3.png" width=200 height=200>
+        <img src="./img/sr3.png" width=200 height=200>
     </div>
 </div>
 <div style="display: flex">
     <div style="display:flex; flex-direction:column; align-items:center">
         <span>Low resolution</span>
-        <img src="./lr4.png" width=200 height=200>
+        <img src="./img/lr4.png" width=200 height=200>
     </div>
     <div style="display:flex; flex-direction:column; align-items:center">
         <span>High resolution</span>
-        <img src="./hr4.png" width=200 height=200>
+        <img src="./img/hr4.png" width=200 height=200>
     </div>
     <div style="display:flex; flex-direction:column; align-items:center">
         <span>Super resolution</span>
-        <img src="./sr4.png" width=200 height=200>
+        <img src="./img/sr4.png" width=200 height=200>
     </div>
 </div>
 <br/>
