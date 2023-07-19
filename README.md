@@ -37,6 +37,8 @@ python3 super-resolution.py <weight-path> <image>
 Where `<weight-path>` is the path to the pretrained weights of the model. And `<image>`is the path to the input image.\
 
 Here is some examples of super resolution results:
+<html>
+<body>
 <div style="display: flex">
     <div style="display:flex; flex-direction:column; align-items:center">
         <span>Low resolution</span>
@@ -93,6 +95,8 @@ Here is some examples of super resolution results:
         <img src="./img/sr4.png" width=200 height=200>
     </div>
 </div>
+</body>
+</html>
 <br/>
 
 It can be noticed that the super resolutions given by the trained model on Set14 dataset are not very good. Which is expected as explain in the [original paper](https://arxiv.org/pdf/1609.04802.pdf). For simplicity, the model was trained using the MSE loss as the content loss. And the MSE loss tends to give the average of all the best super resolutions for the input image. Which gives a smooth texture that gives this blurry effect.
